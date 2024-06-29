@@ -1,5 +1,5 @@
 
-# CS150 Project: University Course Management System
+# CS150: University Course Management System
 
 ## Student Name and Email
 Leah Mirch (lmirch@umich.edu)
